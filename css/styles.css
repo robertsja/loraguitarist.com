@@ -213,6 +213,12 @@
             flex: 2;
         }
 
+        .info-text li {
+            list-style-type: none;
+            text-align: left;
+            padding-left: 10%;
+        }   
+
 
         /* Contact Section */
         #contact {
